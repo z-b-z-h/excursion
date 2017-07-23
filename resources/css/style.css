@@ -14,6 +14,11 @@ h2 {
   font-size: 42px;
   color: white;
 }
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
 .link {
   color: Aquamarine;
   font-size: 16px;
